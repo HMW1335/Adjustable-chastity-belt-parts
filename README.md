@@ -6,7 +6,7 @@ Download two waistband pieces and 1 of every other file, and print. Even PLA wor
 
 The file "cage example" was created using the PARAMETRIC CHASTITY CAGE v6 system which can be found online easily, you can customize it to your desire there.
 
-The belt is highly adjustable. Tip: try to amke sure the ring is as low as possible, this enhances security and makes it more comfortable, especially around the perineum.
+The belt is highly adjustable. Tip: try to make sure the ring is as low as possible, this enhances security and makes it more comfortable, especially around the perineum.
 
 Not the most comfortable belt on earth, but tolerable, and virtually inescapable without breaking (which is difficult).
 
