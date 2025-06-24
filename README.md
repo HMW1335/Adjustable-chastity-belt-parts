@@ -1,6 +1,6 @@
 # Adjustable-chastity-belt-parts
 <h1>Adjustable 3D printable Chastity belt v1.0</h1>
-You need 4 small luggage locks for this. Though I suppose zip ties would work if absolutely necessary
+You need 2 small luggage locks for this. Though I suppose zip ties would work if absolutely necessary.
 
 Download two waistband pieces and 1 of every other file, and print. Even PLA works, it does not matter.
 
@@ -10,4 +10,4 @@ The belt is highly adjustable. Tip: try to make sure the ring is as low as possi
 
 Not the most comfortable belt on earth, but tolerable, and virtually inescapable without breaking (which is difficult).
 
-This is only the first version, more is to come.
+This is only the second version, more is to come.
